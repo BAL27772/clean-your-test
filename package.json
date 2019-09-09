@@ -1,0 +1,19 @@
+{
+  "name": "movies_api",
+  "version": "1.0.0",
+  "description": "## Instructions In the initial commit to this project, you have been provided with a CSV file that contains data on the American Film Institute's (AFI) Top 100 Movies. Your task is to create a database backed Express API for access the details of these films.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BAL27772/movies_api.git"
+  },
+  "author": "Billy Leiva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BAL27772/movies_api/issues"
+  },
+  "homepage": "https://github.com/BAL27772/movies_api#readme"
+}
