@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "12 Angry Men",
+    "Directors": "Sidney Lumet",
+    "Release Date": "4/10/1957",
+    "Rating": "Not Rated",
+    "Run Time": "95 mins",
+    "Genres": "Drama"
+  },
+  {
+    "Title": "2001: A Space Odyssey",
+    "Directors": "Stanley Kubrick",
+    "Release Date": "4/3/1968",
+    "Rating": "G",
+    "Run Time": "140 mins",
+    "Genres": "Science fiction"
+  },
+  {
+    "Title": "A Clockwork Orange",
+    "Directors": "Stanley Kubrick",
+    "Release Date": "12/19/1971",
+    "Rating": "R",
+    "Run Time": "137 mins",
+    "Genres": "Drama"
+  }
+]
